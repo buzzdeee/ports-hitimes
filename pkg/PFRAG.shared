@@ -1,0 +1,4 @@
+@comment $OpenBSD$
+${GEM_LIB}/extensions/${MODRUBY_ARCH}/${MODRUBY_LIBREV}/${DISTNAME}/hitimes/${MODRUBY_LIBREV}/hitimes.so
+${GEM_LIB}/gems/${DISTNAME}/ext/hitimes/c/hitimes.so
+${GEM_LIB}/gems/${DISTNAME}/lib/hitimes/${MODRUBY_LIBREV}/hitimes.so
